@@ -25,13 +25,6 @@ teams that ship them.
 `MongoDB` · `Prisma` · `AWS (Lambda, ECS, RDS, S3, CodePipeline)` · `Docker` ·
 `Auth0` · `Power BI` · `C/C++`
 
-### Background
-
-8+ years across fintech, payments, and enterprise software. Previously shipped
-**IvyBackup** (commercial Windows backup application, 10,000+ downloads, 60+
-releases) at Kudu Computing, and **KuponCentro** (multi-merchant payments
-marketplace) at Payments Central.
-
 ### Reach me
 
 - 📧 [mkandawire15@gmail.com](mailto:mkandawire15@gmail.com)
