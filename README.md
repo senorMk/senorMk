@@ -2,7 +2,7 @@
 
 **Senior Software Engineer & Engineering Lead** · Fintech & Payments
 
-I build production lending, investment, and payments systems — and lead the
+I build production systems that scale — and lead the
 teams that ship them.
 
 ---
