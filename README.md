@@ -1,6 +1,6 @@
 # Penjani Mkandawire
 
-**Senior Software Engineer & Engineering Lead** · Fintech & Payments
+**Senior Software Engineer & Engineering Lead**
 
 I build production systems that scale — and lead the
 teams that ship them.
