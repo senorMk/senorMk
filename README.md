@@ -21,7 +21,7 @@ teams that ship them.
 
 ### Stack
 
-`TypeScript` · `Node.js` · `NestJS` · `Angular` · `React` · `PostgreSQL` ·
+`Go` · `TypeScript` · `Node.js` · `NestJS` · `Angular` · `React` · `PostgreSQL` ·
 `MongoDB` · `Prisma` · `AWS (Lambda, ECS, RDS, S3, CodePipeline)` · `Docker` ·
 `Auth0` · `Power BI` · `C/C++`
 
